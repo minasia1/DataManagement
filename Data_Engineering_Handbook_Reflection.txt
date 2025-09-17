@@ -1,0 +1,4 @@
+The data-engineer-handbook repo provided great resources for interview questions and project ideas, given
+that I may pursue data engineering. One article I found useful for how a SQL interview works and what 
+topics to know. The project I found the most interesting was using GCP to transform, conduct data analysis,
+and build a dashboard for Uber data. 
