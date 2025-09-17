@@ -1,0 +1,6 @@
+Reading the data version control article has broadened my perspective.
+While I previoiusly only thought of version control from a personal software development
+perspective, I never thought about how data professional use different branches to create
+isolated testing environments and allow for data governance. Making ETL pipelines was something
+I got into this summer, and from this article, I realized I need to version more frequeuntly to
+help identify errors when something goes wrong. 
